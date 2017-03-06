@@ -1,0 +1,19 @@
+{
+  "name": "speech-client",
+  "version": "1.0.0",
+  "description": "client to handle speach commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "speech",
+    "node",
+    "sox"
+  ],
+  "author": "Maximilian.Berghoff@gmx.de",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^0.7.0"
+  }
+}
